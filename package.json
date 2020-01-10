@@ -1,0 +1,18 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ganglion-lsl.js",
+  "dependencies": {
+    "@openbci/ganglion": "^2.0.0",
+    "openbci-ganglion": "^0.4.3",
+    "python-shell": "^0.4.0",
+    "noble-mac": "https://github.com/Timeular/noble-mac.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0"
+}
